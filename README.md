@@ -2,9 +2,10 @@
 
 ![놀욘's Status](https://github-readme-stats.vercel.app/api?username=noryonkr&show_icons=true)
 
-<p>
-소속된 팀
+</p>
+소속된 팀<
   [![team alpha](https://github.com/team-alpha-kr/img/blob/main/alpha%20discord%20join%20banner.png)](https://alphakr.xyz)  
-<p><code>우리는 세상을 만듭니다.
+</p>
+  <code>우리는 세상을 만듭니다.
   - Team Alpha
   </code>
