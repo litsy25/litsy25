@@ -11,5 +11,6 @@
 
 </p>
   <code>우리는 세상을 만듭니다.
-  - Team Alpha
+  <p>
+  - by. Team Alpha
   </code>
