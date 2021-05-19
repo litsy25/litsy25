@@ -27,3 +27,14 @@
   
 # 플렛폼
 <code> # 사용하는 플렛폼은 무엇인가?</code>
+
+ 
+> [![디스코드](https://cdn.discordapp.com/attachments/820186973624074240/844550071684038656/a1e33adc293864f0.png)](https://discord.com)
+> [![Youtube](https://cdn.discordapp.com/attachments/820186973624074240/844550922025828363/1.png)](https://youtube.com)
+
+  
+  # 유튜브 정보
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
+  
+  <img alt="Discord" src="https://img.shields.io/discord?style=plastic">
