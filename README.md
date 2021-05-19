@@ -6,9 +6,9 @@
 
 ![놀욘's Status](https://github-readme-stats.vercel.app/api?username=noryonkr&show_icons=true)
 
-</p>
-# 팀<p>
-  
+
+# 팀
+
   
   [![team alpha](https://github.com/team-alpha-kr/img/blob/main/alpha%20discord%20join%20banner.png)](https://alphakr.xyz)  
 
@@ -24,4 +24,6 @@
   <p>
 <div class="breaker"></div>
 <p>
-  사용하는 플렛폼
+  
+# 플렛폼
+<code> # 사용하는 플렛폼은 무엇인가?</code>
