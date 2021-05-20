@@ -19,7 +19,7 @@
 # 팀
 
   
-  [![team alpha](https://github.com/team-alpha-kr/img/blob/main/alpha%20discord%20join%20banner.png)](https://alphakr.xyz)  
+  [![team alpha](https://github.com/team-alpha-kr/img/blob/main/alpha%20discord%20join%20banner.png)](https://alphakr.xyz/discord)  
 
 
 </p>
