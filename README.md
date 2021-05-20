@@ -31,6 +31,7 @@
  
 > [![디스코드](https://cdn.discordapp.com/attachments/820186973624074240/844550071684038656/a1e33adc293864f0.png)](https://discord.com)
 > [![Youtube](https://cdn.discordapp.com/attachments/820186973624074240/844550922025828363/1.png)](https://youtube.com)
+> [![트위치](https://cdn.discordapp.com/attachments/832269426995888228/844907498078732288/6d99c38575d8968f.png)](https://twitch.tv/noryonkor)
 
   
   # 유튜브
