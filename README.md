@@ -15,20 +15,6 @@
  ```---------------------------------------------------------------------------------```
   
   
-# 팀
-
-  
-  [![team alpha](https://github.com/team-alpha-kr/img/blob/main/alpha%20discord%20join%20banner.png)](https://alphakr.xyz/discord)  
-
-
-</p>
-  <code>우리는 세상을 만듭니다.
-  <p>
-  - by. Team Alpha
-  </code>
-  
-  
-  
  
   
 # 플렛폼
