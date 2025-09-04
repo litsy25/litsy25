@@ -8,7 +8,7 @@
   ```------------------------------------------------------------------------------```
   
   
-![litsy25's github stats](https://github-readme-stats.vercel.app/api?username=litsy25&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+![릿시의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=litsy25&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
  
   
