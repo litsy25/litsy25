@@ -1,44 +1,34 @@
-# 안녕하세요 놀욘입니다
-- [소속된 팀](#팀)
-- [사용하는 플렛폼](#플렛폼)
-- [유튜브 정보](#유튜브-정보)
+### Hi there, I'm 놀욘 👋
+
+<br>
+
+### 🙋‍♂️ About Me
+- 🔭 저는 프론트엔드/Discord 개발자입니다.
+- 🌱 현재 HTML에 빠져있어요!
+- ⚡ Fun fact: AI버튜버한번 만들어볼까 생각중입니다
+
+<br>
+
+### 🛠️ Tech Stack
 <p>
- 
-  
-  ```------------------------------------------------------------------------------```
-  
-  
-![noryonkr's github stats](https://github-readme-stats.vercel.app/api?username=litsy25&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
- 
-  
- ```---------------------------------------------------------------------------------```
-  
-  
- 
-  
-# 플렛폼
-<code> # 사용하는 플렛폼은 무엇인가?</code>
+<br>
 
- 
-> [![디스코드](https://cdn.discordapp.com/attachments/820186973624074240/844550071684038656/a1e33adc293864f0.png)](https://discord.com)
-  ```놀욘#0132```
- <p>
-   
-   
-> [![Youtube](https://cdn.discordapp.com/attachments/820186973624074240/844550922025828363/1.png)](https://www.youtube.com/channel/UCLlgK7SH1J-VQdWWPu3uaog)
-  ```클릭하면 놀욘의 유튜브 채널로 이동됩니다```
-<p>
-  
-  
-> [![트위치](https://cdn.discordapp.com/attachments/832269426995888228/844907498078732288/6d99c38575d8968f.png)](https://twitch.tv/noryonkor)
-  ```클릭하면 놀욘의 트위치 채널로 이동됩니다```
+### 📊 My GitHub Stats
+[![litsy25's GitHub stats](https://github-readme-stats.vercel.app/api?username=litsy25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litsy25&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  # 유튜브-정보
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLlgK7SH1J-VQdWWPu3uaog?style=social)
- 
-  
-  
----
-  Thanks.
+<br>
+
+### 🎮 My Platforms
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCa-f4Dk_wT50lsj0a2vjV_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/noluen"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCa-f4Dk_wT50lsj0a2vjV_A"><img src="https://yt-subs.vercel.app/api/youtube-subscribers?id=UCa-f4Dk_wT50lsj0a2vjV_A&style=for-the-badge&label=Subscribers"/></a>
+</p>
