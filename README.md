@@ -1,4 +1,4 @@
-### Hi there, I'm 놀욘 👋
+### Hi there, I'm LitsyNeko 👋
 
 <br>
 
@@ -18,15 +18,15 @@
 <br>
 
 ### 📊 My GitHub Stats
-[![litsy25's GitHub stats](https://github-readme-stats.vercel.app/api?username=litsy25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litsy25&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![litsy25's GitHub stats](https://github-readme-stats.vercel.app/api?username=litsyneko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litsyneko&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ### 🎮 My Platforms
 <p align="center">
   <a href="https://www.youtube.com/channel/UCa-f4Dk_wT50lsj0a2vjV_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/noluen"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://chzzk.naver.com/fa37cfc2b6a481c9778a637c8455f183"><img src="https://img.shields.io/badge/Chzzk-9146FF?style=for-the-badge&logo=chzzk&logoColor=white"/></a>
   </p>
 
 <p align="center">
