@@ -26,7 +26,6 @@
 ### 🎮 My Platforms
 <p align="center">
   <a href="https://www.youtube.com/@LitsyNeko"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@LitsyNeko"><img src="https://yt-subs.vercel.app/api/youtube-subscribers?id=UCa-f4Dk_wT50lsj0a2vjV_A&style=for-the-badge&label=Subscribers"/></a>
   <a href="https://chzzk.naver.com/fa37cfc2b6a481c9778a637c8455f183"><img src="https://img.shields.io/badge/Chzzk-9146FF?style=for-the-badge&logo=chzzk&logoColor=white"/></a>
   
 </p>
